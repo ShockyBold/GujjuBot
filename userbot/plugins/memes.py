@@ -229,7 +229,7 @@ INSULT_STRINGS = [
     "`When your mom dropped you off at the school, she got a ticket for littering.`",
     "`You’re so ugly that when you cry, the tears roll down the back of your head…just to avoid your face.`",
     "`If you’re talking behind my back then you’re in a perfect position to kiss my a**!.`",
-]
+"`Do yourself a favor and ignore anyone who tells you to be yourself. Bad idea in your case.`",
 
 UWUS = [
     "(・`ω´・)",
